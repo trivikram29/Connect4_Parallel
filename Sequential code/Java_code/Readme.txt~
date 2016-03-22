@@ -1,8 +1,0 @@
-This is Java code without parallelization.
-
-compile using below command:
-javacc Play_main.java Utility.java
-
-
-Run using below command:
-java Play_main
